@@ -1,6 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HillelHW01", "HillelHW01\HillelHW01.csproj", "{439DB3D5-071B-493B-BF35-EF69FC2E8C91}"
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HillelHW01", "HillelHW\HillelHW01.csproj", "{683E4949-E40B-433B-9EE3-34AF642B5E3C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -8,9 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{439DB3D5-071B-493B-BF35-EF69FC2E8C91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{439DB3D5-071B-493B-BF35-EF69FC2E8C91}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{439DB3D5-071B-493B-BF35-EF69FC2E8C91}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{439DB3D5-071B-493B-BF35-EF69FC2E8C91}.Release|Any CPU.Build.0 = Release|Any CPU
+		{683E4949-E40B-433B-9EE3-34AF642B5E3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{683E4949-E40B-433B-9EE3-34AF642B5E3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{683E4949-E40B-433B-9EE3-34AF642B5E3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{683E4949-E40B-433B-9EE3-34AF642B5E3C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {54C08D16-1768-4A59-B936-A6028DF16C48}
 	EndGlobalSection
 EndGlobal
